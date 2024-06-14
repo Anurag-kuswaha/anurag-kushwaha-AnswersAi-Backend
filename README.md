@@ -44,5 +44,7 @@ Install project with npm
 │   └── userService.js
 └── utils/
     └── validateSchema.js
-![Uploading Screenshot 2024-06-14 at 13.40.52.png…]()
+
+    
+<img width="469" alt="Screenshot 2024-06-14 at 13 41 42" src="https://github.com/Anurag-kuswaha/anurag-kushwaha-AnswersAi-Backend/assets/73064862/f29ed32f-db67-42ab-9e72-a9612bc5ed19">
 
