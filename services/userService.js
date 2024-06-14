@@ -15,11 +15,11 @@ const getUserDetailsService = async (userId) => {
             }
         }
         const dbData = await db.users.findByPk(userId);
-        console.log('dbData is', dbData.dataValues);
+        console.log('dbData is', dbData);
         if (!dbData) {
             return {
                 statusCode: 400,
-                response: { msg: `No User found with this email ${email} `, error: true }
+                response: { msg: `No User found with this userid ${userId} `, error: true }
             }
         }
         const data = _.pick(dbData.dataValues, [
