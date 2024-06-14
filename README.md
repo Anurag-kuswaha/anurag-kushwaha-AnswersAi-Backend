@@ -3,7 +3,7 @@
 
 
 ## Installation
-node requiremnt verison 20.0.0 or above
+node version 20.0.0 or above
 Install project with npm
 
 ```bash
