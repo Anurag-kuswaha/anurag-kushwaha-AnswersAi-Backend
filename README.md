@@ -12,10 +12,10 @@ Install project with npm
 ```
 Env file that needs to configure (database used is online and same can be used for testing and ANTHROPIC api key is not allowed to host on github)
 ```bash
-DB_USERNAME=avnadmin
-DB_PASSWORD=AVNS_Vmne3XujMKC87-p6KMM
-DB_HOST=public-pg-f64fddc-ak4032777-4df8.l.aivencloud.com
-DB_PORT=12181
+DB_USERNAME=
+DB_PASSWORD=
+DB_HOST=
+DB_PORT=
 DB_DATABASE=answerai
 DB_DIALECT=postgres
 ANTHROPIC_API_KEY=
